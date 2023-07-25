@@ -166,7 +166,7 @@ def find_sun_properties(file_path: Path, sun_description: str) -> None:
         print(f"Sun Radiance of the supplied sun description (RGB) found at: {RGB_sun_radiance}")    
 
 
-    # Extract sun directio vector (XYZ)
+    # Extract sun direction vector (XYZ)
     result_lines = []
     count = 0
 
