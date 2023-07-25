@@ -14,7 +14,7 @@ The script currently only works for windows.
 Make sure you have Radiance installed.
 Python libraries: subprocess, shutil, math, os, re, sys, path
 
-# License and referencing
+# License and citation
 This program is licensed under the BSD 3-Clause.
 Please refer to this program by citing: XX
 
