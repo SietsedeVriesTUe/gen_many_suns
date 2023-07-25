@@ -1,0 +1,6 @@
+void light minisolar
+0
+0
+3      1E4	1E4	1E4
+
+!rcalc -e "x1=$1;y1=$2;z1=$3" -o manysun.fmt NNN-sun.vec

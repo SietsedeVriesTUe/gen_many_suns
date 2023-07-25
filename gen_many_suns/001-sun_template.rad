@@ -1,0 +1,12 @@
+# Standard sun description with aribtrary RGB radiance with direction vector [1 0 0] 
+# i.e. along the x-axis (or zero altitude due east, or alt,azi = 000,090)
+
+void light solar
+0
+0
+3	RADR	RADG	RADB
+
+solar source sun
+0
+0
+4	1	0	0	0.533 
