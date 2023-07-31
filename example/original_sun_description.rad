@@ -1,1 +1,50 @@
+# gendaylit 1 18 12.65 -W 738.0 78.4 -d -1.54 -a 51.44 -o -5.47 -m -15
+# Local solar time: 11.84
+# Solar altitude and azimuth: 17.8 -2.3
+# epsilon, delta, atmospheric precipitable water content : 4.0531 0.1796 0.8329
 
+void light solar
+0
+0
+3 5.304e+06 5.304e+06 5.304e+06
+
+solar source sun
+0
+0
+4 0.038123 -0.951374 0.305669 0.533000
+
+void brightfunc skyfunc
+2 skybright perezlum.cal
+0
+10 2.554e+01 9.230e+00 -0.979038 -0.311523 13.165589 -3.373531 0.383429 0.038123 -0.951374 0.305669
+void brightfunc skyfunc
+
+2 skybright perezlum.cal
+
+0
+
+10 2.554e+01 9.230e+00 -0.979038 -0.311523 13.165589 -3.373531 0.383429 0.038123 -0.951374 0.305669
+
+skyfunc glow sky_mat
+0
+0
+4
+0.86 1.06 0.93 0
+
+sky_mat source sky
+0
+0
+4
+0 0 1 180
+
+skyfunc glow ground_glow
+0
+0
+4
+1 1 1 0
+
+ground_glow source ground
+0
+0
+4
+0 0 -1 180
