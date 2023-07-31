@@ -208,7 +208,7 @@ def find_sun_properties(file_path: Path, sun_description: str) -> None:
     return RGB_sun_radiance, XYZ_sun_direction, altitude, azimuth
 
 
-def set_irradiance(file_path: Path, RGB_original_radiance: list[str]) -> None:
+def set_irradiance(file_path, RGB_original_radiance):
     """
     This function copies the 001-sun_template.rad file to a file called 
     001_sun.rad. 
