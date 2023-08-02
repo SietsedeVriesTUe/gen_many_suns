@@ -20,5 +20,7 @@ python gen_many_suns.py original_sun_description.rad 32
 # License and referencing
 This program is licensed under the BSD 3-Clause.
 Please refer to this program by citing: [![DOI](https://zenodo.org/badge/670507110.svg)](https://zenodo.org/badge/latestdoi/670507110)
+Special thanks to John Mardaljevic for his valuable contributions during the development of this method.
+
 
 ![Image](manysuns.png) 
