@@ -7,7 +7,7 @@ Make sure Radiance is installed and the script is in the same folder as the temp
 To run the code supply the name of the original (single) sun description and 
 the dimension (in pixels) of the side of a square on which the sun should be based.
 A solar angular opening of 0.533 degrees is assumed.
-author: Sietse de Vries (sietse@sietse-de-vries.nl)
+authors: Signify & Sietse de Vries (sietse@sietse-de-vries.nl)
 """
 
 import subprocess
