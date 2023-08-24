@@ -1,5 +1,5 @@
 # Genmanysuns
-[![DOI](https://zenodo.org/badge/670507110.svg)](https://zenodo.org/badge/latestdoi/670507110)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8279567.svg)](https://doi.org/10.5281/zenodo.8279567)
 
 A program to generate a Radiance sun description consisting of many mini suns.
 
@@ -19,6 +19,7 @@ python gen_many_suns.py original_sun_description.rad 32
 
 # License and referencing
 This program has been developed by Sietse de Vries in the context of IntelLight+, an Eindhoven Engine project (partners: Signify, Eindhoven University of Technology). The program is licensed under the BSD-3 license, see the LICENSE file.
-Special thanks to John Mardaljevic for his valuable contributions during the development of this method. Please refer to this program by citing: [![DOI](https://zenodo.org/badge/8279567.svg)](https://zenodo.org/badge/latestdoi/8279567)
+Special thanks to John Mardaljevic for his valuable contributions during the development of this method. Please refer to this program by citing: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8279567.svg)](https://doi.org/10.5281/zenodo.8279567)
+
 
 ![Image](manysuns.png) 
