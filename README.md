@@ -18,7 +18,7 @@ python gen_many_suns.py original_sun_description.rad 32
 - Python libraries: subprocess, shutil, math, os, re, sys, path
 
 # License and referencing
-This program is developed by Sietse de Vries for IntelLight+, a collaboration between the Eindhoven University of Technology and Signify. The program is licensed under the BSD-3 license, see the LICENSE file.
+This program is developed by Sietse de Vries for IntelLight+, a project of the Eindhoven University of Technology and Signify. The program is licensed under the BSD-3 license, see the LICENSE file.
 Special thanks to John Mardaljevic for his valuable contributions during the development of this method. Please refer to this program by citing: [![DOI](https://zenodo.org/badge/670507110.svg)](https://zenodo.org/badge/latestdoi/670507110)
 
 ![Image](manysuns.png) 
