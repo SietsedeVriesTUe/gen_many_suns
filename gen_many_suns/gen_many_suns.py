@@ -8,7 +8,7 @@ To run the code supply the name of the original (single) sun description and
 the dimension (in pixels) of the side of a square on which the sun should be based.
 A solar angular opening of 0.533 degrees is assumed.
 
-This program is developed by Sietse de Vries for IntelLight+, a project of the Eindhoven University of Technology and Signify.
+This program has been developed by Sietse de Vries in the context of IntelLight+, an Eindhoven Engine project (partners: Signify, Eindhoven University of Technology).
 The program is licensed under the BSD-3 license, see the LICENSE file.
 
 """
